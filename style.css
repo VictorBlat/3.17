@@ -1,3 +1,16 @@
 h1{
     color: blue;
 }
+div.tablas{
+    border: blue 1px solid;
+}
+td.azul{
+    position: relative;
+    width: 33%;
+    height: 100px;
+    border: blue 1px solid;
+}
+table{
+    position: relative;
+    width: 100%;
+}
